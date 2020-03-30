@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ONE</string>
+    <string name="visit" >访问</string>
+    <string name="home" >主页</string>
+    <string name="left" >后退</string>
+    <string name="right" >前进</string>
+    <string name="exit" >退出</string>
+</resources>
